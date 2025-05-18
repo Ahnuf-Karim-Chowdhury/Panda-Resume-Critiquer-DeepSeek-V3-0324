@@ -28,7 +28,8 @@
 
 ---
 
-[![Watch the video](https://img.youtube.com/vi/sOXwwPfbV1c/maxresdefault.jpg)](https://youtu.be/sOXwwPfbV1c)
+![Panda Resume GIF](https://github.com/Ahnuf-Karim-Chowdhury/Panda-Resume-Critiquer-Using-DeepSeek-DeepSeek-V3-0324/blob/main/Images/Panda%20Resume%20-%202K.gif?raw=true)
+
 
 
 ## 📦 Dependencies
@@ -68,6 +69,8 @@ uv add streamlit openai PyPDF2 python-dotenv
    uv run streamlit run main.py
    ```
 6.Enjoy.
+
+![Panda Resume Critiquer GIF](https://github.com/Ahnuf-Karim-Chowdhury/Panda-Resume-Critiquer-Using-DeepSeek-DeepSeek-V3-0324/blob/main/Images/Panda_Resume_Cretiquer.gif?raw=true)
 
 ## 🖼️ UI Overview
 
