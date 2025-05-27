@@ -3,7 +3,9 @@
 
 **Panda Resume Critiquer** is an AI-powered tool that evaluates resumes using the DeepSeek V3 0324 model. It provides actionable feedback on structure, clarity, and content impact, helping job seekers and recruiters optimize resumes for better results.
 
-![App Screenshot](https://github.com/Ahnuf-Karim-Chowdhury/Panda-Resume-Critiquer-Using-DeepSeek-DeepSeek-V3-0324/blob/main/Images/01_upscayl_5x_realesrgan-x4plus.png?raw=true)
+---
+![Panda Resume GIF](https://github.com/Ahnuf-Karim-Chowdhury/Panda-Resume-Critiquer-Using-DeepSeek-DeepSeek-V3-0324/blob/main/Images/Panda%20Resume%20-%202K.gif?raw=true)
+---
 
 ## 🚀 Features
 
@@ -27,8 +29,6 @@
 5. **AI-generated feedback** is returned in a structured, actionable format.
 
 ---
-
-![Panda Resume GIF](https://github.com/Ahnuf-Karim-Chowdhury/Panda-Resume-Critiquer-Using-DeepSeek-DeepSeek-V3-0324/blob/main/Images/Panda%20Resume%20-%202K.gif?raw=true)
 
 
 
@@ -70,7 +70,6 @@ uv add streamlit openai PyPDF2 python-dotenv
    ```
 6.Enjoy.
 
-![Panda Resume Critiquer GIF](https://github.com/Ahnuf-Karim-Chowdhury/Panda-Resume-Critiquer-Using-DeepSeek-DeepSeek-V3-0324/blob/main/Images/Panda_Resume_Cretiquer.gif?raw=true)
 
 ## 🖼️ UI Overview
 
@@ -90,6 +89,12 @@ This app uses the **DeepSeek V3 0324** model via **OpenRouter**.
   - `max_tokens = 1000`
 - Delivers **balanced**, **specific**, and **actionable** resume feedback.
 ---
+
+<p align="center">
+  <img src="https://github.com/Ahnuf-Karim-Chowdhury/Panda-Resume-Critiquer-Using-DeepSeek-DeepSeek-V3-0324/blob/main/Images/Panda_Resume_Cretiquer.gif?raw=true" width="100%" />
+</p>
+
+
 ## ✨ Credits
 
 Built with ❤️ using:
@@ -97,4 +102,5 @@ Built with ❤️ using:
 - [Streamlit](https://streamlit.io/)
 - [OpenRouter](https://openrouter.ai/)
 - [DeepSeek](https://deepseek.com/)
+
 
