@@ -17,7 +17,8 @@ st.title("📃 Panda Resume Critiquer")
 st.markdown("Upload your resume and get AI-powered feedback!")
 
 # Load OpenRouter API key
-OPENROUTER_API_KEY = os.getenv("API_KEY")
+OPENROUTER_API_KEY = st.secrets["API_KEY"]
+
 
 uploaded_file = st.file_uploader("Upload your resume (PDF or TXT)", type=["pdf", "txt"])
 job_role = st.text_input("Enter the job role you are targeting (optional)")
