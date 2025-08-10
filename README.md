@@ -1,7 +1,9 @@
 # 📃 Panda Resume Critiquer Using DeepSeek V3 0324
 
 
-**Panda Resume Critiquer** is an AI-powered tool that evaluates resumes using the DeepSeek V3 0324 model. It provides actionable feedback on structure, clarity, and content impact, helping job seekers and recruiters optimize resumes for better results.
+**Panda Resume Critiquer** is an AI-powered tool that evaluates resumes using the DeepSeek V3 0324 model. It provides actionable feedback on structure, clarity, and content impact, helping job seekers and recruiters optimize resumes for better results.  
+👉 [Try the app here](https://ai-panda-resume-critiquer.streamlit.app/)
+
 
 ---
 ![Panda Resume GIF](https://github.com/Ahnuf-Karim-Chowdhury/Panda-Resume-Critiquer-Using-DeepSeek-DeepSeek-V3-0324/blob/main/Images/Panda%20Resume%20-%202K.gif?raw=true)
